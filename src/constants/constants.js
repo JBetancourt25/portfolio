@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'Pokedex',
-    description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+    description: "Just a pokedex from 1st gen to 7th.",
     image: '/images/pokedexscreenshot.png',
     tags: ['HTML', 'CSS', 'Javascript'],
     visit: 'https://github.com/JBetancourt25/Pokedex-attempt',
@@ -9,7 +9,7 @@ export const projects = [
   },
   {
     title: 'Responsive Grid',
-    description: "While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
+    description: "A responsive grid using Tailwindcss framework.",
     image: '/images/responsivegrid.png',
     tags: ['CSS', 'HTML', 'Tailwindcss'],
 
@@ -17,15 +17,14 @@ export const projects = [
     id: 1,
   },
 
-  // {
-  //   title: 'Unichat',
-  //   description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
-  //   image: '/images/4.jpg',
-  //   tags: ['React', 'ChatEngine', 'Firebase'],
-  //   source: 'https://google.com',
-  //   visit: 'https://google.com',
-  //   id: 3,
-  // },
+  {
+    title: 'Pricing panel',
+    description: "This code is for a simple css card about pricing",
+    image: '/images/pricing.png',
+    tags: ['HTML', 'CSS'],
+    visit: 'https://github.com/JBetancourt25/Basic-card-style',
+    id: 3,
+  },
 ];
 
 export const TimeLineData = [
