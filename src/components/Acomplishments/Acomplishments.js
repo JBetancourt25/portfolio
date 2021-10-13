@@ -5,7 +5,7 @@ import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 
 const data = [
   { number: 10, text: 'Projects+' },
-  { number: 1, text: 'Bachelor Degree', },
+  { number: 1, text: 'College Degree', },
   { number: 3, text: 'Completed Courses', },
 
 ];
