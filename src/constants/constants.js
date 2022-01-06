@@ -25,6 +25,15 @@ export const projects = [
     visit: 'https://github.com/JBetancourt25/Basic-card-style',
     id: 3,
   },
+
+  {
+    title: "Sunspear Tournament",
+    description: "A page created with wix for pure self-learning about an Arena Tournament. Winner Takes all",
+    image: '/images/Sunspear.jpg',
+    tags: ['Wix'],
+    visit: 'https://josebp25.wixsite.com/my-site-1',
+    id: 4,
+  }
 ];
 
 export const TimeLineData = [
